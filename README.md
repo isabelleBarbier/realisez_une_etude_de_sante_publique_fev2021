@@ -34,5 +34,5 @@ Based on data retrieved from the FAO website, the project is a statistical study
 
 ## Presentation slides
 - P3_04_presentation_etudeSantePublique.pdf : survey's summary (PDF)
-- pyFAO_BDD_requeteSql.ipynb : request's results (PDF)- 
+- pyFAO_BDD_requeteSql.ipynb : request's results (PDF)
 
