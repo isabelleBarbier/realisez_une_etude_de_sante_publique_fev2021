@@ -2,6 +2,7 @@
 
 # Réalisez une étude de santé publique 
 # Conduct a public health survey
+![wheat-g0ae0d127c_1280](https://user-images.githubusercontent.com/47240631/152846262-a8eb5986-cd91-4f56-bad1-cc0f32b83d89.jpg)
 
 ## Description projet
 Based on data retrieved from the FAO website, the project is a statistical study to define the different causes of hunger in the world.
